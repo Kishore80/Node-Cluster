@@ -1,0 +1,15 @@
+{
+  "name": "cluster-knowledge",
+  "version": "1.0.0",
+  "main": "idea.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kishore",
+  "license": "ISC",
+  "description": "This is to Understand the Cluster Module in Node JS",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
